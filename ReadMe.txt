@@ -1,0 +1,1 @@
+In this task, text mining and sentiment analysis was carried out on thirty of the most recently reviewed hotels and restaurants in Bangladesh. The number of positive, negative and neutral reviews were extracted, and the most negatively reviewed restaurants were visualized.
